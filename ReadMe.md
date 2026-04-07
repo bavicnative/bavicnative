@@ -17,7 +17,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-Name     : Bavic Native
+Name     : Bavi CNative
 Role     : Senior DevOps Engineer
 Company  : Amantya Technologies · Bengaluru, India
 Focus    : Azure · Kubernetes · Terraform · CI/CD · IaC · FinOps
